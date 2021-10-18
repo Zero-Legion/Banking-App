@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZeroLegion\\source\\repos\\BankingApp\\BankingApp\\BankingApp.csproj",
+      "projectUniqueName": "Z:\\ZeroLegion\\Documents\\GitHub\\Banking-App\\BankingApp\\BankingApp.csproj",
       "projectName": "BankingApp",
-      "projectPath": "C:\\Users\\ZeroLegion\\source\\repos\\BankingApp\\BankingApp\\BankingApp.csproj",
+      "projectPath": "Z:\\ZeroLegion\\Documents\\GitHub\\Banking-App\\BankingApp\\BankingApp.csproj",
       "packagesPath": "C:\\Users\\ZeroLegion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZeroLegion\\source\\repos\\BankingApp\\BankingApp\\obj\\",
+      "outputPath": "Z:\\ZeroLegion\\Documents\\GitHub\\Banking-App\\BankingApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "Z:\\Microsoft Visual Studio SDKs\\NuGetPackages"
