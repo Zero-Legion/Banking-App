@@ -1,0 +1,17 @@
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.WindowsDesktop.App",
+      "version": "5.0.0"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\ZeroLegion\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ZeroLegion\\.nuget\\packages",
+      "Z:\\Microsoft Visual Studio SDKs\\NuGetPackages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
