@@ -338,8 +338,12 @@
 		},
 		{
 			"Name": "WidgetThumbs",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c81cb24afdbb4ae5bddc3a4f8ac4eecd"
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
