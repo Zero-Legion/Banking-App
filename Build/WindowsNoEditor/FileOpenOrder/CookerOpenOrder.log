@@ -203,137 +203,137 @@
 "../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp" 202
 "../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 203
 "../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uexp" 204
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Logo.uasset" 205
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Logo.uexp" 206
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Background2.uasset" 207
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Background2.uexp" 208
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 209
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 210
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 211
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 212
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 213
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 214
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 215
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 216
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 217
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 218
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 219
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 220
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 221
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 222
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 223
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 224
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 225
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 226
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 227
-"../../../Engine/Content/EngineFonts/Roboto.uexp" 228
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_CustomEntryBox.uasset" 229
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_CustomEntryBox.uexp" 230
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 231
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 232
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 233
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 234
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/GeneratedRoundRect.uasset" 235
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/GeneratedRoundRect.uexp" 236
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/M_RoundBorder.uasset" 237
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/M_RoundBorder.uexp" 238
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/M_RoundedCorners_Inst.uasset" 239
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/M_RoundedCorners_Inst.uexp" 240
-"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_PersonAddress.uasset" 241
-"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_PersonAddress.uexp" 242
-"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_PersonalInfo.uasset" 243
-"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_PersonalInfo.uexp" 244
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_ULBSCardBack.uasset" 245
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_ULBSCardBack.uexp" 246
-"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_CardData.uasset" 247
-"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_CardData.uexp" 248
-"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_BankAccountData.uasset" 249
-"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_BankAccountData.uexp" 250
-"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_TransactionData.uasset" 251
-"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_TransactionData.uexp" 252
-"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/SaveClientsDataBase.uasset" 253
-"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/SaveClientsDataBase.uexp" 254
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat-Regular.uasset" 255
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat-Regular.uexp" 256
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat-Regular.ufont" 257
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat-Bold.uasset" 258
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat-Bold.uexp" 259
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat-Bold.ufont" 260
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat_Font.uasset" 261
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat_Font.uexp" 262
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_2FA.uasset" 263
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_2FA.uexp" 264
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_ChatWindowText.uasset" 265
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_ChatWindowText.uexp" 266
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_VisaLogo.uasset" 267
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_VisaLogo.uexp" 268
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_MastercardLogo.uasset" 269
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_MastercardLogo.uexp" 270
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_Card.uasset" 271
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_Card.uexp" 272
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_9.uasset" 273
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_9.uexp" 274
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_8.uasset" 275
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_8.uexp" 276
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_7.uasset" 277
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_7.uexp" 278
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_6.uasset" 279
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_6.uexp" 280
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_5.uasset" 281
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_5.uexp" 282
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_4.uasset" 283
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_4.uexp" 284
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_3.uasset" 285
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_3.uexp" 286
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_2.uasset" 287
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_2.uexp" 288
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_12.uasset" 289
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_12.uexp" 290
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_11.uasset" 291
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_11.uexp" 292
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_10.uasset" 293
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_10.uexp" 294
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_1.uasset" 295
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_1.uexp" 296
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_AddCard.uasset" 297
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_AddCard.uexp" 298
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 299
-"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 300
-"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 301
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/M_RoundUIMask.uasset" 302
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/M_RoundUIMask.uexp" 303
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_RomanianFlag.uasset" 304
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_RomanianFlag.uexp" 305
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_SendMoney.uasset" 306
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_SendMoney.uexp" 307
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_AccountTable.uasset" 308
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_AccountTable.uexp" 309
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Bank.uasset" 310
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Bank.uexp" 311
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_DebitCard.uasset" 312
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_DebitCard.uexp" 313
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_DefaultAvatar.uasset" 314
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_DefaultAvatar.uexp" 315
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Info.uasset" 316
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Info.uexp" 317
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_MainPage.uasset" 318
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_MainPage.uexp" 319
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/view.uasset" 320
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/view.uexp" 321
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_Transaction.uasset" 322
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_Transaction.uexp" 323
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_LogOut.uasset" 324
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_LogOut.uexp" 325
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_MainApp.uasset" 326
-"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_MainApp.uexp" 327
-"D:/101 Unreal Projects/Banking/Banking-App/Content/BP_Instance.uasset" 328
-"D:/101 Unreal Projects/Banking/Banking-App/Content/BP_Instance.uexp" 329
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Background.uasset" 330
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Background.uexp" 331
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 205
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 206
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 207
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 208
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 209
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 210
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 211
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 212
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 213
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 214
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 215
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 216
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 217
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 218
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 219
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 220
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 221
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 222
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 223
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 224
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_CustomEntryBox.uasset" 225
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_CustomEntryBox.uexp" 226
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 227
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 229
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 230
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/GeneratedRoundRect.uasset" 231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/GeneratedRoundRect.uexp" 232
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/M_RoundBorder.uasset" 233
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/M_RoundBorder.uexp" 234
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/M_RoundedCorners_Inst.uasset" 235
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/M_RoundedCorners_Inst.uexp" 236
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat-Regular.uasset" 237
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat-Regular.uexp" 238
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat-Regular.ufont" 239
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat-Bold.uasset" 240
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat-Bold.uexp" 241
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat-Bold.ufont" 242
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat_Font.uasset" 243
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Fonts/Montserrat_Font.uexp" 244
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_ChatWindowText.uasset" 245
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_ChatWindowText.uexp" 246
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_VisaLogo.uasset" 247
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_VisaLogo.uexp" 248
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_MastercardLogo.uasset" 249
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_MastercardLogo.uexp" 250
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_ULBSCardBack.uasset" 251
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_ULBSCardBack.uexp" 252
+"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_CardData.uasset" 253
+"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_CardData.uexp" 254
+"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_TransactionData.uasset" 255
+"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_TransactionData.uexp" 256
+"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_PersonAddress.uasset" 257
+"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_PersonAddress.uexp" 258
+"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_PersonalInfo.uasset" 259
+"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_PersonalInfo.uexp" 260
+"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_BankAccountData.uasset" 261
+"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/S_BankAccountData.uexp" 262
+"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/SaveClientsDataBase.uasset" 263
+"D:/101 Unreal Projects/Banking/Banking-App/Content/DataBase/SaveClientsDataBase.uexp" 264
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_Card.uasset" 265
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_Card.uexp" 266
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_9.uasset" 267
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_9.uexp" 268
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_8.uasset" 269
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_8.uexp" 270
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_7.uasset" 271
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_7.uexp" 272
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_6.uasset" 273
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_6.uexp" 274
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_5.uasset" 275
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_5.uexp" 276
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_4.uasset" 277
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_4.uexp" 278
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_3.uasset" 279
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_3.uexp" 280
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_2.uasset" 281
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_2.uexp" 282
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_12.uasset" 283
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_12.uexp" 284
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_11.uasset" 285
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_11.uexp" 286
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_10.uasset" 287
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_10.uexp" 288
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_1.uasset" 289
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Card_1.uexp" 290
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_AddCard.uasset" 291
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_AddCard.uexp" 292
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 293
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 294
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 295
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/M_RoundUIMask.uasset" 296
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/M_RoundUIMask.uexp" 297
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_RomanianFlag.uasset" 298
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_RomanianFlag.uexp" 299
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_SendMoney.uasset" 300
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_SendMoney.uexp" 301
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_AccountTable.uasset" 302
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_AccountTable.uexp" 303
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_LogOut.uasset" 304
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_LogOut.uexp" 305
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Bank.uasset" 306
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Bank.uexp" 307
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_DebitCard.uasset" 308
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_DebitCard.uexp" 309
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_DefaultAvatar.uasset" 310
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_DefaultAvatar.uexp" 311
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Info.uasset" 312
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Info.uexp" 313
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_MainPage.uasset" 314
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_MainPage.uexp" 315
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/view.uasset" 316
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/view.uexp" 317
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_Transaction.uasset" 318
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_Transaction.uexp" 319
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_MainApp.uasset" 320
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_MainApp.uexp" 321
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_2FA.uasset" 322
+"D:/101 Unreal Projects/Banking/Banking-App/Content/UI_2FA.uexp" 323
+"D:/101 Unreal Projects/Banking/Banking-App/Content/BP_Instance.uasset" 324
+"D:/101 Unreal Projects/Banking/Banking-App/Content/BP_Instance.uexp" 325
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Background2.uasset" 326
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Background2.uexp" 327
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Logo.uasset" 328
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Logo.uexp" 329
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Register2.uasset" 330
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Register2.uexp" 331
 "D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Register.uasset" 332
 "D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Register.uexp" 333
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Register2.uasset" 334
-"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Register2.uexp" 335
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Background.uasset" 334
+"D:/101 Unreal Projects/Banking/Banking-App/Content/Textures/T_Background.uexp" 335
 "D:/101 Unreal Projects/Banking/Banking-App/Content/UI_RegisterWindow.uasset" 336
 "D:/101 Unreal Projects/Banking/Banking-App/Content/UI_RegisterWindow.uexp" 337
 "D:/101 Unreal Projects/Banking/Banking-App/Content/UI_LoginWindow.uasset" 338
